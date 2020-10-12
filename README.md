@@ -80,7 +80,7 @@ Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimo
 
 2) Acessar o link abaixo:
 
-<a href="https://hackathongetnet.web.app/" target="blank">https://hackathongetnet.web.app/</a>
+<a href="https://hackathongetnet.web.app/" target="_blank">https://hackathongetnet.web.app/</a>
 
 ## 🏃 Roadmap
 
