@@ -85,11 +85,11 @@ Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimo
 
 Feito com ❤️ pela equipe 11 do Hackathon Getnet 
 
-André Souza
-Eraylson Galdina
-Gabriel Nicolsky
-Igor Maule
-Tiago Rodrigo
+André Souza <br>
+Eraylson Galdina <br>
+Gabriel Nicolsky <br>
+Igor Maule <br>
+Tiago Rodrigo <br>
 
 [vuejs]: https://vuejs.org/
 [firebase]: https://firebase.google.com/
