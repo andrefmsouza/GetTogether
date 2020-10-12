@@ -53,7 +53,7 @@ Junte-se a nós: getTogether!
 O layout da aplicação está disponível no AdobeXD:
 
 <a href="https://xd.adobe.com/view/3409b878-8dab-4f3c-a314-122d617ba4da-615a/specs/">
-  <img alt="GetTogether" src="">
+  <img alt="GetTogether" src="https://img.shields.io/badge/Acessar%20Layout%20-Web-%2304D361">
 </a>
 
 ## 🛠 Tecnologias
