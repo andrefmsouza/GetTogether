@@ -16,7 +16,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrefmsouza/GetTogether">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
 </p>
 
@@ -54,7 +53,7 @@ Junte-se a nós: getTogether!
 O layout da aplicação está disponível no AdobeXD:
 
 <a href="https://xd.adobe.com/view/3409b878-8dab-4f3c-a314-122d617ba4da-615a/specs/">
-  <img alt="GetTogether" src="https://xd.adobe.com/view/3409b878-8dab-4f3c-a314-122d617ba4da-615a/specs/">
+  <img alt="GetTogether" src="">
 </a>
 
 ## 🛠 Tecnologias
@@ -75,21 +74,14 @@ $ git clone https://github.com/andrefmsouza/GetTogether
 
 ```
 
-Para executar o projeto, basta baixar os arquivos do github com o seguinte comando:
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/andrefmsouza/GetTogether
-
-```
-
 Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimos a utlização do Google Chrome)
 
 
-##  Roadmap
+## 🏃 Roadmap
 
-<img alt="Roadmap" title="Roadmap" src="./img/roadmap.png" />
-
+<h1 align="center">
+    <img alt="Roadmap" title="Roadmap" src="./img/roadmap.png" />
+</h1>
 
 Feito com ❤️ pela equipe 11 do Hackathon Getnet 
 
