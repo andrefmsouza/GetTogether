@@ -66,7 +66,9 @@ Para a construção do MVP, utilizamos as seguintes tecnologias:
 
 ## 🚀 Como executar o projeto
 
-Para executar o projeto, basta baixar os arquivos do github com o seguinte comando:
+Para executar o projeto, você pode:
+
+1) baixar os arquivos do github com o seguinte comando:
 
 ```bash
 # Clone este repositório
@@ -76,6 +78,9 @@ $ git clone https://github.com/andrefmsouza/GetTogether
 
 Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimos a utlização do Google Chrome)
 
+2) Acessar o link abaixo:
+
+<a href="https://hackathongetnet.web.app/" target="blank">https://hackathongetnet.web.app/</a>
 
 ## 🏃 Roadmap
 
